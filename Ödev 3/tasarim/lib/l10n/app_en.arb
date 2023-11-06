@@ -1,0 +1,19 @@
+{
+    "appBarTitle":"Cart",
+    "addressHeader":"Shipping Address",
+    "addressTitle":"Home",
+    "address":"Ankara,Çankaya",
+    "bookingHeader":"Booking Car",
+    "carName":"Toyota Corolla",
+    "carRating":"Review 780",
+    "carPrice":"$30.00/Day",
+    "carRental":"Car rental 5 Day",
+    "carRentalPrice":"$150",
+    "carBooking":"Car Booking",
+    "carBookingPrice":"$50",
+    "carDue":"Due",
+    "carDuePrice":"$100",
+    "carTotal":"Total",
+    "carTotalPrice":"$1700",
+    "buttonTitle":"Continue To Payment"
+}

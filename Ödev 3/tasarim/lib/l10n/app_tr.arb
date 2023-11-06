@@ -1,0 +1,19 @@
+{
+    "appBarTitle":"Sepet",
+    "addressHeader":"Teslimat Adresi",
+    "addressTitle":"Ev",
+    "address":"Ankara,Çankaya",
+    "bookingHeader":"Araba Rezervasyonu",
+    "carName":"Toyota Corolla",
+    "carRating":"780 Değerlendirme",
+    "carPrice":"900₺/Günlük",
+    "carRental":"5 Günlük Kiralama",
+    "carRentalPrice":"4500₺",
+    "carBooking":"Arabayı Kiralama",
+    "carBookingPrice":"1500₺",
+    "carDue":"Vergi",
+    "carDuePrice":"3000₺",
+    "carTotal":"Toplam",
+    "carTotalPrice":"51000₺",
+    "buttonTitle":"Ödemeye Devam Et"
+}
