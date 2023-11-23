@@ -1,0 +1,30 @@
+class MusicImageConstants {
+  static const akliminIpleriniSaldim =
+      "https://lh3.googleusercontent.com/Ub6NoE0u-_NfHW6mofrk_w6F-gyPd14X5v9RGH5YsHvQLBYroLOGn6UT7K-GxOMy1S0CnYWKsnMsbvw=w544-h544-l90-rj";
+  static const gelsinHayatBildigiGibi =
+      "https://lh3.googleusercontent.com/-Z2mySBaWAe3WGoUtNluERk5iEhr5l4EUMvdFeOI9GP-2tNgvBgn92CkWota5NMLBG_bXnZGFlYbCnVb=w544-h544-l90-rj";
+  static const zor =
+      "https://lh3.googleusercontent.com/OSSu6US2o9f4A0jRATz4Stk6T0JaxUXFGKGU3hg0HwtLkCiW_V-9yucSerKD1YB3DZ3elBV8pQK8o9aLqw=w544-h544-l90-rj";
+  static const olsun =
+      "https://lh3.googleusercontent.com/wVEak76vBey5lfBaQDt2fBnH8eX_iSwkV6GWYDP7gCHrk6kjx-eGGHSYm7p9a4VQfHxhBT-eyf6xfM25=w544-h544-l90-rj";
+  static const gecmisinYuku =
+      "https://lh3.googleusercontent.com/4LlVF-I09LBh70MNUq9zwbzSXg1H7PHaJW94JPfQtU5N0QoE-f6C-_eO1Vdu_7NM_NNPYMKUtt4uEFZC=w544-h544-l90-rj";
+  static const muhurluKaderim =
+      "https://lh3.googleusercontent.com/ENZUMyKwTW90OUfvYCEBmYbowzsloul6yJWpE8ptc2h89TOJXfIYEtfLAUQNzFebH_rlB3bGGD62_mtN=w544-h544-l90-rj";
+  static const forsa =
+      "https://lh3.googleusercontent.com/nRSDJM2k8HckJydf4XsXTuu_CGzgSDqql5yEECCXQ6DBJb1rcX-k7J7brBsA_IrnxxfJXI5tQg3VB3w=w544-h544-l90-rj";
+  static const issizliginOrtasinda =
+      "https://lh3.googleusercontent.com/FTK3n4W0WAaIIbMS9GEf8X8ruNh2Q9NJ37srsJaZfNAn_D_RluQXHxQPmJwZvhT4ZLJYuRyegyax_yFqYQ=w544-h544-l90-rj";
+  static const kirmisKalbini =
+      "https://lh3.googleusercontent.com/iOwqcsDxgZs8G44fi4MQeEZVY4xcLH3ua7aWxXAgpZTKFGrCiWl44xUN0YsjGdpYLat3QN7Ww3VtC_Q=w544-h544-l90-rj";
+  static const birthOfCreation =
+      "https://lh3.googleusercontent.com/45p1L8JbsEl_pcLRmMpbl9Wqh2enVvMnYGZfuoyUdl85WqRFOhP28KeyQPmQ7vyYC7_fD_a-XvcDiR4c=w544-h544-l90-rj";
+  static const birseyYapmali =
+      "https://lh3.googleusercontent.com/rR53vJcom7vXzl3FiE75nI0rvR5Q3_OVUljah6074EySK5WgG2mkTLrciwZO9Kk2w9nuBkZPQMy5OSRU=w544-h544-l90-rj";
+  static const dursunZaman =
+      "https://lh3.googleusercontent.com/CJNWIgS1LCJMfqsyGCZpRAuVuPhP7zsUDo_vb9765IcaRc66G7GyokBXc13tzvGfUGXyJFqFqMTHp4DN=w544-h544-l90-rj";
+  static const meleklerOlmez =
+      "https://lh3.googleusercontent.com/86DxiOjHyjEozNIJSZtI6pGq5yGiia3y-u_ZqjjaeHFppRdjbhoUXQixX5YvPUZn-LgcYzDbu2VJLw=w544-h544-l90-rj";
+  static const sonSabah =
+      "https://lh3.googleusercontent.com/YctdS1hQWwBjh4-7q15f2TX0p2o81ZySbf6-VSWT309YF3VnJXI6atzdJ3i3b340z6f92t1pWJKuWHEf=w544-h544-l90-rj";
+}
