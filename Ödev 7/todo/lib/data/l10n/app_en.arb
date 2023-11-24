@@ -1,0 +1,14 @@
+{
+    "search" : "Search",
+    "app_name" : "To Do",
+    "deleted" : "will be deleted. Do you confirm?",
+    "yes" : "Yes",
+    "empty" : "Empty",
+    "add_task" : "Add Task",
+    "task_name" : "Task Name",
+    "cannot_add_empty" : "Task cannot be added empty!",
+    "add" : "Add",
+    "update_task" : "Update Task",
+    "cannot_update_empty" : "Task cannot be updated empty!",
+    "update" : "Update"
+}

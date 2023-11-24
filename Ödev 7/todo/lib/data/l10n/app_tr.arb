@@ -1,0 +1,14 @@
+{
+    "search": "Ara",
+    "app_name": "Yapılacaklar",
+    "deleted": "silinecek. Onaylıyor musunuz?",
+    "yes": "Evet",
+    "empty": "Boş",
+    "add_task": "Görev Ekle",
+    "task_name": "Görev Adı",
+    "cannot_add_empty": "Görev boş olarak eklenemez!",
+    "add": "Ekle",
+    "update_task": "Görevi Güncelle",
+    "cannot_update_empty": "Görev boş olarak güncellenemez!",
+    "update": "Güncelle"
+}
