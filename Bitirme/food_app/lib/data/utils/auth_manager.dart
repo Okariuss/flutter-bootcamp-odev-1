@@ -19,7 +19,8 @@ class AuthManager {
   Future<User?> signUp(String email, String password, String username,
       Uint8List image, BuildContext context, AppLocalizations d) async {
     try {
-      bool isUsernameTakenUse = await isUsernameTaken(username);
+      var savedUsername = username.toLowerCase().replaceAll(" ", "_");
+      bool isUsernameTakenUse = await isUsernameTaken(savedUsername);
 
       if (isUsernameTakenUse) {
         ScaffoldMessenger.of(context).showSnackBar(
