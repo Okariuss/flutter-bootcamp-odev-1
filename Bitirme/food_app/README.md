@@ -37,7 +37,7 @@ A Flutter application for food enthusiasts to explore, save favorites, and manag
 ## Features
 
 - **BLoC Pattern with Cubit:** Utilizes the BLoC pattern with Cubit for state management.
-- **Localization (l10n):** Multi-language support implemented using `intl` package.
+- **Localization (l10n):** Multi-language support(Turkish-English) implemented using `intl` package.
 - **Network Requests:** Retrieves data using Dio for seamless API integration.
 - **Cart Management:** Incorporates Dio for adding items to the cart.
 - **Persistent Storage:** Utilizes Shared Preferences for storing user preferences/settings.
