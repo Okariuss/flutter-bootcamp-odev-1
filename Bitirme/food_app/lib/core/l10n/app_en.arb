@@ -56,6 +56,6 @@
     "next" : "NEXT",
     "similar_products" : "SIMILAR PRODUCTS",
     "pay" : "PAY",
-    "payment_completed" : "Payment successful. Your order is preparing"
-
+    "payment_completed" : "Payment successful. Your order is preparing",
+    "add_to_cart" : "Add to Cart"
 }

@@ -49,7 +49,7 @@ class _ProductPageState extends State<ProductPage> {
             ),
             Padding(
               padding: const EdgeInsets.all(16.0),
-              child: _defaultProductPageCardChangeQuantity(),
+              child: _defaultProductPageCardChangeQuantity(d),
             ),
             Padding(
               padding: const EdgeInsets.all(16.0),
@@ -193,7 +193,7 @@ class _ProductPageState extends State<ProductPage> {
   }
 
   BlocBuilder<CartPageCubit, List<CartProduct>>
-      _defaultProductPageCardChangeQuantity() {
+      _defaultProductPageCardChangeQuantity(AppLocalizations d) {
     return BlocBuilder<CartPageCubit, List<CartProduct>>(
       builder: (context, cartProducts) {
         var cartProduct = cartProducts.firstWhere(
@@ -249,7 +249,7 @@ class _ProductPageState extends State<ProductPage> {
                       .increaseProductQuantity(cartProduct);
                   _upgradeCart(context, cartProducts, cartProduct);
                 },
-                child: const Text("Sepete Ekle"),
+                child: Text(d.add_to_cart),
               );
       },
     );

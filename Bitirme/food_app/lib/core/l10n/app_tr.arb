@@ -56,7 +56,6 @@
     "next" : "SONRAKİ",
     "similar_products" : "BENZER ÜRÜNLER",
     "pay" : "ÖDE",
-    "payment_completed" : "Ödeme alınmıştır. Siparişiniz hazırlanıyor"
-
-
+    "payment_completed" : "Ödeme alınmıştır. Siparişiniz hazırlanıyor",
+    "add_to_cart" : "Sepete Ekle"
 }
